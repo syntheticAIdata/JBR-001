@@ -1,4 +1,4 @@
-# JBR-001
+# JBR-001 - A Desktop Companion Robot Powered by Arduino® UNO™ Q
 
 JBR-001 is an open-source, 3D-printable desktop companion robot powered by the **Arduino® UNO™ Q**.
 
