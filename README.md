@@ -8,7 +8,7 @@ We designed JBR-001 as a small platform for experimenting with robotics, physica
 
 The robot can greet you by moving its arms and head, play sounds, animate its display, sense nearby objects using a distance sensor, and use its camera for computer vision applications running on the Arduino UNO Q.
 
-You can build your own JBR-001 using the open-source code, 3D-printable files, step-by-step assembly instructions and a synthetic dataset for training its computer vision model, all available on Arduino Project Hub.
+You can build your own JBR-001 using the open-source code, 3D-printable files, step-by-step assembly instructions and a synthetic dataset for training its computer vision model, all available on **[Arduino Project Hub](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96)**.
 
 JBR-001 was built by **[syntheticAIdata](https://syntheticaidata.com)** in partnership with **Arduino®**.
 
